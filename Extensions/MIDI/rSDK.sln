@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rSDK", "rSDK.vcxproj", "{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release_Small|Win32 = Release_Small|Win32
+		Release|Win32 = Release|Win32
+		Run_Only_Small|Win32 = Run_Only_Small|Win32
+		Run_Only|Win32 = Run_Only|Win32
+		Vitalize_Small|Win32 = Vitalize_Small|Win32
+		Vitalize|Win32 = Vitalize|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Debug|Win32.Build.0 = Debug|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Release_Small|Win32.ActiveCfg = Release_Small|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Release_Small|Win32.Build.0 = Release_Small|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Release|Win32.ActiveCfg = Release|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Release|Win32.Build.0 = Release|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Run_Only_Small|Win32.ActiveCfg = Run_Only_Small|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Run_Only_Small|Win32.Build.0 = Run_Only_Small|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Run_Only|Win32.ActiveCfg = Run_Only|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Run_Only|Win32.Build.0 = Run_Only|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Vitalize_Small|Win32.ActiveCfg = Vitalize_Small|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Vitalize_Small|Win32.Build.0 = Vitalize_Small|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Vitalize|Win32.ActiveCfg = Vitalize|Win32
+		{EA7595EB-287B-4C6A-AD3A-2823EE9DE43D}.Vitalize|Win32.Build.0 = Vitalize|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

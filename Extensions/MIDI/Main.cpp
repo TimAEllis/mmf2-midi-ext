@@ -16,8 +16,7 @@ int mData1, mData2, mStatus;
 const string Note [] = {"C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"};
 const bool IsFlat [] = { 0,	  1,    0,   1,    0,   0,   1,    0,   1,    0,   1,    0};
 
-bool DoMidiInData (LPRDATA rdPtr, byte aStatus, byte aData1, byte aData2)
-  {
+bool DoMidiInData (LPRDATA rdPtr, byte aStatus, byte aData1, byte aData2) {
     /*cardinal*/ DWORD lMsg = 0;
     MMRESULT lResult;
     HMIDIOUT lHandle;

@@ -33,5 +33,7 @@ extern long (WINAPI ** ExpressionJumps)(LPRDATA rdPtr, long param);
 extern PropData Properties[];
 extern WORD DebugTree[];
 
+#include "EventIDs.h"
+
 // End include guard
 #endif
